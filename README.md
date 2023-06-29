@@ -17,7 +17,6 @@ To run this script, you need to have the following dependencies installed:
 
 You can install the required Python libraries using pip:
 
-```bash
 pip install pandas subprocess json ast csv datetime
 
 ## Usage
