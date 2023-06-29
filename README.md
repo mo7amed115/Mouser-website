@@ -20,7 +20,7 @@ You can install the required Python libraries using pip:
 ```bash
 pip install pandas subprocess json ast csv datetime
 
-## Usage
+## **Usage**
 1. Prepare the input file:
   - Create a CSV file containing the list of keywords in a column named "Input Manufacturer PartNumber".
   - Save the file as "new_missing.csv" in the "update" folder.
